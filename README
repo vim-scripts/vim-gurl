@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5218
+
+GURL - Git URL
+
+This utility allows you to generate a link to the repository of the current file and line (or line range) under your cursor.
+
